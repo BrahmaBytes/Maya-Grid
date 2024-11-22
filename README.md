@@ -2,6 +2,8 @@
 
 **MayaLok** is a revolutionary decentralized network designed to provide an **anonymous, secure, and scalable environment** for global communication, file sharing, and decentralized applications (dApps). Inspired by the concept of **Maya** in Hindu philosophy, which symbolizes the illusion of reality, and **Lok**, meaning world, MayaLok creates a network where identities are hidden, but connections are real.
 
+![alt text](https://github.com/BrahmaBytes/Maya-Lok/blob/main/Lok.png?raw=true)
+
 ## Key Features
 
 - **Anonymity:** Users and nodes operate without revealing their identities, ensuring privacy and freedom.
