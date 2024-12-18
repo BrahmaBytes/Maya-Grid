@@ -51,6 +51,12 @@ This project is not just about technology; it’s about creating a **movement fo
 
 MayaGrid is an open-source project, and we welcome contributions from developers, researchers, and enthusiasts. To get involved, please fork the repository, make changes, and submit a pull request.
 
+## Support Me
+
+I’m passionate about creating MayaGrid, a decentralized, secure, and anonymous peer-to-peer network that redefines how we connect and share online. To bring this vision of a new, privacy-focused internet to life, I need your support. Funding will allow me to dedicate my full energy to developing and scaling this project, ensuring it reaches its true potential. Your contribution can help turn this idea into reality, fostering a future where communication and sharing are free from centralized control, secure, and accessible to all. Together, we can build a better, more open internet for everyone.
+
+<a href="https://www.buymeacoffee.com/brahmabytes" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## License
 
 This project is licensed under the [GPL License](LICENSE).
